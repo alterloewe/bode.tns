@@ -6,6 +6,7 @@ Bode.tns is a quick and dirty lua script intended to plot double-logarithmic bod
 * Amplitude and phase visualization
 * Fast plotting with adjustable step width
 * Works on all TI-Nspire calculators
+* Nyquist Diagram
 
 ## Usage
 1. Download or clone this repository
@@ -13,7 +14,7 @@ Bode.tns is a quick and dirty lua script intended to plot double-logarithmic bod
 3. Open the document on your calculator
 4. Switch to tab 1.2
 5. Redefine the function `h(w)`with your own, where `w` denotes the angular frequency. NOTE: use the built-in `i` (imaginary unit)!
-6. On tab 1.3 you can see the amplitude, the phase plot is on tab 1.4
+6. On tab 1.3 you can see the amplitude, the phase plot is on tab 1.4, Nyquist- Diagram on tab 1.5
 7. Move around with the arrow keys, zoom with +, -, /, *
 
 #### Change step width
